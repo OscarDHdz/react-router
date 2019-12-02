@@ -1,3 +1,10 @@
 {
-  "dishes": []
+  "dishes": [
+    {
+      "name": "Tequila",
+      "price": "100",
+      "category": "drink",
+      "id": 1
+    }
+  ]
 }

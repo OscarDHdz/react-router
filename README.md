@@ -1,5 +1,7 @@
 Just a simple React Router (react-route-dom) webapp
 
+![preivewImage](./preview.PNG)
+
 ## Setup
 This project needs a `http://localhost:4000/dishes` CRUD Rest service, you can use **json-server** to create it using the **db.json** provided in the root of the project:
 
